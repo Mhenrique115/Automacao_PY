@@ -1,6 +1,4 @@
-Aqui está o conteúdo que você me enviou, convertido para Markdown:
 
-```markdown
 # Automação com PyAutoGUI
 
 Este projeto foi desenvolvido para automatizar tarefas repetitivas e otimizar processos no trabalho, principalmente nas demandas que exigem muito tempo, como o cadastramento de produtos ou clientes.
@@ -50,9 +48,6 @@ python nome_do_script.py
 ```
 
 O script irá automaticamente começar a realizar as ações, clicando e digitando nos campos necessários de acordo com as coordenadas predefinidas no código.
-
-
-
 
 
 
