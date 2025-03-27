@@ -1,4 +1,3 @@
-
 # Automação com PyAutoGUI
 
 Este projeto foi desenvolvido para automatizar tarefas repetitivas e otimizar processos no trabalho, principalmente nas demandas que exigem muito tempo, como o cadastramento de produtos ou clientes.
@@ -49,8 +48,6 @@ python nome_do_script.py
 
 O script irá automaticamente começar a realizar as ações, clicando e digitando nos campos necessários de acordo com as coordenadas predefinidas no código.
 
-
-
 # Robô de Envio de E-mail e Automação de Tarefas
 
 ## Robô de Envio de E-mail
@@ -94,8 +91,6 @@ Dessa forma, com a combinação dos dois scripts, você pode automatizar complet
 ### Personalização
 
 Você pode personalizar o script para realizar diferentes tarefas, basta ajustar as coordenadas dos cliques e o texto a ser digitado no código.
-
-
 
 ## Contato
 
